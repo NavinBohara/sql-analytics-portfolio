@@ -39,5 +39,5 @@ Each project folder includes:
 ## 📬 Contact
 **Navin Bohara**  
 Email: navinbohara5@gmail.com  
-GitHub: github.com/NavinBohara  
-LinkedIn: linkedin.com/in/navinbohara
+GitHub: https://github.com/NavinBohara 
+LinkedIn: https://www.linkedin.com/in/navinbohara/
