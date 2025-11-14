@@ -5,11 +5,11 @@ Each project includes datasets, queries, documentation, and results based on rea
 
 ## 📂 Projects Included
 
-### 1. Sales Analysis
+### 1. Retail Sales Analysis
 - KPI calculations
 - Revenue and order trends
 - Customer segmentation
-- Channel performance
+- Product category performance
 
 ## 🛠️ Skills Highlighted
 - Joins  
