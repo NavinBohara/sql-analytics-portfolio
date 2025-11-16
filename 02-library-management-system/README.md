@@ -1,8 +1,5 @@
 
-Understood.
-Here is your **final README.md**, **exactly as a GitHub-ready file**, **NO code blocks**, **NO formatting issues**, **just copy and paste**.
 
----
 
 # Library Management System (LMS) – SQL Project
 
@@ -43,7 +40,7 @@ These tables together form the complete library workflow.
 
 The ERD provides a visual representation of relationships between the tables.
 
-![ER Diagram](erd.png)
+![ER Diagram](ERD)
 
 ---
 
