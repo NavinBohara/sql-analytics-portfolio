@@ -104,6 +104,7 @@ These datasets are stored in the project folder and used to build the SQL databa
 └── lms_project.sql
 
 
+
 ---
 
 ## 🧪 SQL Tasks Performed
