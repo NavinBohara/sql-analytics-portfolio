@@ -103,6 +103,7 @@ These datasets are stored in the project folder and used to build the SQL databa
 ├── erd.png
 └── lms_project.sql
 
+
 ---
 
 ## 🧪 SQL Tasks Performed
@@ -169,4 +170,3 @@ Navin Bohara
 
 ---
 
-If you want the **complete SQL file** for this project, say: **give me SQL file**.
