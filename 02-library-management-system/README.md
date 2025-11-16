@@ -155,7 +155,7 @@ The SQL file includes analysis such as:
 * MySQL / PostgreSQL
 * DBeaver / MySQL Workbench
 * Excel / Google Sheets
-* Draw.io (ERD creation)
+* ERD Modeler - MySQL Workbench (built-in ERD Modeler) : ER diagram creation & database modeling
 
 ---
 
