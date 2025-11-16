@@ -92,16 +92,17 @@ These datasets are stored in the project folder and used to build the SQL databa
 ## 🧱 Project Structure
 
 02-library-management-system/
-│
-├── books.csv
-├── branch.csv
-├── employees.csv
-├── members.csv
-├── issued_status.csv
-├── return_status.csv
-├── library_management.png
-├── erd.png
-└── lms_project.sql
+|
+|-- books.csv
+|-- branch.csv
+|-- employees.csv
+|-- members.csv
+|-- issued_status.csv
+|-- return_status.csv
+|-- library_management.png
+|-- erd.png
+\-- lms_project.sql
+
 
 
 
