@@ -40,7 +40,7 @@ These tables together form the complete library workflow.
 
 The ERD provides a visual representation of relationships between the tables.
 
-![ER Diagram](ERD)
+![ER Diagram](02-library-management-system/ERD.png)
 
 ---
 
