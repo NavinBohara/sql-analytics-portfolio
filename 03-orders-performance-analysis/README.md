@@ -137,7 +137,6 @@ Project created and maintained by:
 SQL Analytics Portfolio
 GitHub: [https://github.com/NavinBohara](https://github.com/NavinBohara)
 
-Dataset used for learning and analytical practice purposes.
 
 
 
