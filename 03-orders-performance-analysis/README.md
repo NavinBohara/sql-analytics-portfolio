@@ -19,12 +19,8 @@ This project demonstrates practical SQL skills used in real-world data analytics
 
 ## 📸 Orders Performance Analysis
 
-Add your screenshots or dashboards in this section.
 
-![Orders Dashboard](orders_dashboard.png)
-![Revenue Trend](orders_revenue_chart.png)
-
-Upload these images into the same folder as this README and keep the file names matching.
+![Orders Dashboard](thumbmail.jpg)
 
 ---
 
