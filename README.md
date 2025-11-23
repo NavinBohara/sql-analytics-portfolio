@@ -11,6 +11,8 @@ Each project includes datasets, queries, documentation, and results based on rea
 - Customer segmentation
 - Product category performance
 
+01-retail-sales-analysis
+
 ### 2. Library Management System
 
 A complete multi-table SQL project simulating real library operations.
