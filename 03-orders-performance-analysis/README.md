@@ -1,7 +1,5 @@
 
 
----
-
 # Orders Performance Analysis – SQL Project
 
 ## 📦 Project Overview
