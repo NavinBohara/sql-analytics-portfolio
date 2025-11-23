@@ -11,37 +11,28 @@ Each project includes datasets, queries, documentation, and results based on rea
 - Customer segmentation
 - Product category performance
 
-2. Library Management System
+### 2. Library Management System
 
 A complete multi-table SQL project simulating real library operations.
 
-Database design with primary & foreign keys
-
-Book issuing and return tracking
-
-Overdue member identification
-
-Branch and employee performance analysis
-
-ERD-based relational modeling
+- Database design with primary & foreign keys
+- Book issuing and return tracking
+- Overdue member identification
+- Branch and employee performance analysis
+- ERD-based relational modeling
 
 Folder: 02-library-management-system
 
-3. Orders Performance Analysis
+### 3. Orders Performance Analysis
 
 SQL analysis on retail order data focusing on pricing, discounts, and profitability.
 
-Revenue, cost, and profit calculations
-
-Discount impact analysis
-
-Category and region-wise performance
-
-Monthly revenue trends
-
-Product segmentation by total revenue
-
-Advanced window function queries
+- Revenue, cost, and profit calculations
+- Discount impact analysis
+- Category and region-wise performance
+- Monthly revenue trends
+- Product segmentation by total revenue
+- Advanced window function queries
 
 Folder: 03-orders-performance-analysis
 
