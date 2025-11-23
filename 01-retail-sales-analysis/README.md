@@ -4,6 +4,14 @@ This project explores a retail sales dataset containing daily customer transacti
 The goal is to generate KPIs, identify trends, understand customer behavior, and 
 analyze product categories using SQL.
 
+---
+
+## 🖼 Retail Sales Analysis Overview
+
+![Retail Sales Analysis](thumbmail.jpg)
+
+---
+
 ## 📁 Dataset Overview
 The dataset includes:
 
