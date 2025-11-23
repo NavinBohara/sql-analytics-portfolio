@@ -15,8 +15,6 @@ This project demonstrates practical SQL skills used in real-world data analytics
 
 ---
 
----
-
 ## 📸 Orders Performance Analysis
 
 
