@@ -14,7 +14,6 @@ The goal of this project is to use SQL to explore global patterns, rank countrie
 
 ## 📸 world happiness analysis 
 
-Upload visuals into the folder and reference them here:
 
 ![Orders Dashboard](world_happiness.jpg)
 
