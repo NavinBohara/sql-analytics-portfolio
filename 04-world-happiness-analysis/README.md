@@ -1,6 +1,6 @@
 
 
-# world happiness analysis 
+# World Happiness Analysis 
 
 ## 📘 Project Overview
 
