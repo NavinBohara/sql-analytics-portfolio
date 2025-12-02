@@ -38,7 +38,7 @@ SQL analysis on retail order data focusing on pricing, discounts, and profitabil
 
 Folder: 03-orders-performance-analysis
 
-4. World Happiness Analysis
+### 4. World Happiness Analysis
 
 SQL analysis based on the World Happiness Report dataset, exploring global well-being indicators and regional patterns.
 
