@@ -11,14 +11,13 @@ The goal of this project is to use SQL to explore global patterns, rank countrie
 
 ---
 
----
 
 ## 📸 Project Visuals (Optional)
 
 Upload visuals into the folder and reference them here:
 
 ```
-![Happiness Visual](happiness_visual.png)
+![Happiness Visual](world_happiness.jpg)
 ```
 
 ---
