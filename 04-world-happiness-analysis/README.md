@@ -1,6 +1,6 @@
 
 
-# **04-world-happiness-analysis – SQL Project**
+# **world happiness analysis **
 
 ## 📘 Project Overview
 
@@ -12,7 +12,7 @@ The goal of this project is to use SQL to explore global patterns, rank countrie
 ---
 
 
-## 📸 Project Visuals (Optional)
+## 📸 world happiness analysis 
 
 Upload visuals into the folder and reference them here:
 
