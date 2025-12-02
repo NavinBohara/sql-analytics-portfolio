@@ -16,7 +16,7 @@ The goal of this project is to use SQL to explore global patterns, rank countrie
 
 Upload visuals into the folder and reference them here:
 
-![Orders Dashboard](thumbmail.jpg)
+![Orders Dashboard](world_happiness.jpg)
 
 ---
 
