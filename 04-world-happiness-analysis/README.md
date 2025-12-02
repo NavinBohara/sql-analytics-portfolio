@@ -11,6 +11,18 @@ The goal of this project is to use SQL to explore global patterns, rank countrie
 
 ---
 
+---
+
+## 📸 Project Visuals (Optional)
+
+Upload visuals into the folder and reference them here:
+
+```
+![Happiness Visual](happiness_visual.png)
+```
+
+---
+
 ## 🌍 Dataset Description
 
 The dataset contains the following key columns:
@@ -85,18 +97,6 @@ This project focuses on answering key analytical questions, including:
 |-- world_happiness_analysis.sql
 └-- README.md
 ```
-
----
-
-## 📸 Project Visuals (Optional)
-
-Upload visuals into the folder and reference them here:
-
-```
-![Happiness Visual](happiness_visual.png)
-```
-
----
 
 ## 🛠 Tools Used
 
