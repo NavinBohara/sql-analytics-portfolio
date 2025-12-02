@@ -1,6 +1,6 @@
 
 
-# **world happiness analysis **
+# world happiness analysis 
 
 ## 📘 Project Overview
 
@@ -123,7 +123,7 @@ Part of the **SQL Analytics Portfolio**
 GitHub: [https://github.com/NavinBohara](https://github.com/NavinBohara)
 LinkedIn: [https://linkedin.com/in/navinbohara](https://linkedin.com/in/navinbohara)
 
----
+
 
 
 
