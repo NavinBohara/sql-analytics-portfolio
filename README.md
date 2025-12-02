@@ -38,6 +38,21 @@ SQL analysis on retail order data focusing on pricing, discounts, and profitabil
 
 Folder: 03-orders-performance-analysis
 
+4. World Happiness Analysis
+
+SQL analysis based on the World Happiness Report dataset, exploring global well-being indicators and regional patterns.
+
+- Ranking happiest and least happy countries
+- Region-wise analysis of happiness scores
+- GDP vs Ladder Score correlation
+- Countries above/below global averages
+- Social support, generosity, corruption, and freedom insights
+- Identifying top countries per region
+- Detecting outliers and spread of happiness within regions
+- Advanced window functions and CTE-based analysis
+
+Folder: 04-world-happiness-analysis
+
 ## 🛠️ Skills Highlighted
 - Joins  
 - Aggregations  
