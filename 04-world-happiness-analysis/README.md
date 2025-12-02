@@ -130,5 +130,4 @@ LinkedIn: [https://linkedin.com/in/navinbohara](https://linkedin.com/in/navinboh
 ---
 
 
-Just tell me!
 
